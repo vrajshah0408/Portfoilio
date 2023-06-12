@@ -18,6 +18,7 @@ const Contact = () => {
   ];
 
   return (
+    <div name="contact">
     <Section
       title="Contact Me"
       subtitle="Here you can get in contact with me. You can also leave your information if you wish to be contacted."
@@ -98,6 +99,7 @@ const Contact = () => {
         </div>
       </div>
     </Section>
+    </div>
   );
 };
 

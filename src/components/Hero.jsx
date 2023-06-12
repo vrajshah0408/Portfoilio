@@ -26,6 +26,7 @@ const Hero = () => {
   });
 
   return (
+    <div name="home">
     <section className="min-h-screen flex flex-col justify-start items-center p5 text-center">
       <h2 className="text-5xl text-red-600 uppercase font-thin">Vraj Shah</h2>
       <h3 className="py-3 text-2xl">Software Dev</h3>
@@ -65,6 +66,7 @@ const Hero = () => {
         <FaArrowDown className="text-gray-400 text-2xl animate-bounce" />
       </div>
     </section>
+    </div>
   );
 };
 

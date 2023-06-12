@@ -24,6 +24,7 @@ const Portfolio = () => {
   ];
 
   return (
+    <div name="portfolio">
     <Section
       title={"Portfolio"}
       subtitle={
@@ -52,6 +53,7 @@ const Portfolio = () => {
         ))}
       </div>
     </Section>
+    </div>
   );
 };
 
