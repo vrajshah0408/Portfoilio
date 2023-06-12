@@ -28,7 +28,7 @@ const Hero = () => {
   return (
     <div name="home">
     <section className="min-h-screen flex flex-col justify-start items-center p5 text-center">
-      <h2 className="text-5xl text-red-600 uppercase font-thin">Vraj Shah</h2>
+      <h2 className="text-5xl text-red-600 uppercase font-bold">Vraj Shah</h2>
       <h3 className="py-3 text-2xl">Software Dev</h3>
       <p className="max-w-xl font light text-gray-500">
         Hello <span className="animate-pulse text-4xl">👋</span>, Welcome to my
