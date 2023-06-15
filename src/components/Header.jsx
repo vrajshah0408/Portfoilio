@@ -32,7 +32,7 @@ const Header = ({ darkMode, setDarkMode }) => {
   return (
     <header className={`bg-white ${darkMode ? "dark:bg-gray-900" : ""} text-gray-900 ${darkMode ? "dark:text-white" : ""}`}>
       <nav className="flex justify-between items-center p-5">
-        <h1 className="text-lg">Vraj Shah</h1>
+        
 
         <div>
           <ul className={`hidden md:flex ${nav ? "flex" : ""}`}>
