@@ -21,7 +21,7 @@ const Services = () => {
   return (
     <div name="services" >
     <Section
-      title="Services"
+      title="Skills"
       subtitle="Here are some types of services I can provide"
     >
       <div className="grid gap-10 lg:grid-cols-2">

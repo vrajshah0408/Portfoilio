@@ -13,7 +13,7 @@ const Portfolio = () => {
     {
       id: 1,
       image: fcc,
-      title: "Free Code Camp BE Cert",
+      title: " Code Camp BE Cert",
       github: "https://github.com/vrajshah0408/FileMetadata.git",
     },
     {
