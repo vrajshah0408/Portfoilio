@@ -31,9 +31,10 @@ const Hero = () => {
         <h2 className="text-5xl text-red-600 uppercase font-bold">Vraj Shah</h2>
         <h3 className="py-3 text-2xl">Software Dev</h3>
         <p className="max-w-xl font light text-gray-500">
-          Hello User, Welcome to
-          my portfolio site. I am a Computer Scicene Gradute form Gerogia State
-          University. I am looking for a full time opportunity that would help me leverage my skills as a software developer.
+          Hello User, Welcome to my portfolio site. I am a Computer Science
+          Graduate from Georgia State University. I am looking for a full time
+          opportunity that would help me leverage my skills as a software
+          developer.
         </p>
         <div className="flex justify-evenly py-8 lg:py-16 text-3xl w-full md:w-1/3">
           {SOCIAL.map(({ id, link, icon }) => (
